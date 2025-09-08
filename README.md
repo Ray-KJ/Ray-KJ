@@ -35,4 +35,4 @@ I'm passionate about building impactful AI products, and I am always learning an
 - **Foundations in AI & Machine Learning**
   - Demonstrating my academic focus on core AI principles through advanced coursework    
 
-I aspire to work as an **AI Product Manager** or **AI Engineer** intern. Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ray-chang-cfa)
+I aspire to work as an **AI Product Manager** or **AI Engineer** intern. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ray-chang-cfa/)
